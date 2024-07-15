@@ -4,13 +4,16 @@ public class sumodd {
         Scanner scanIn=new Scanner(System.in);
 
         int num;
-        System.out.print("Enter num");
+        System.out.print("Enter number\n");
         num = scanIn.nextInt();
         int sum=0;
 
-        int i=0;
-        while(i<=num){
-            if(i%2==1 )
+        for(int i=0;i<num;i++){
+            if(i%2==1){
+                sum+=i;
+            }
         }
+        sum+=num;
+        System.out.print("The sum is " + sum);
     }
 }
