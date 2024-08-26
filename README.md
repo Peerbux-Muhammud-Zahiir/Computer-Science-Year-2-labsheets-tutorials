@@ -42,7 +42,7 @@ If you're a fellow student or developer interested in contributing or improving 
 For any questions or discussions, you can reach me via:
 
 - **Email:** [zahiirpeerbux2019@gmail.com](zahiirpeerbux2019@gmail.com)
-- **LinkedIn:** [Zahiir Peerbux](https://www.linkedin.com/)
+- **LinkedIn:** [Zahiir Peerbux](https://www.linkedin.com/in/zahiir-peerbux-221621310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
