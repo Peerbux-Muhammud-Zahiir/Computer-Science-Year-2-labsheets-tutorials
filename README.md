@@ -1,5 +1,7 @@
 # University Solutions Repository
-
+<div align="center">
+  <img src="https://poly.ac.mu/wp-content/uploads/2021/05/Picture2-180x180.png" width=30%>
+</div>
 Welcome to my GitHub repository! This repository contains all of my solutions for university work, assignments, and tutorials. The work here spans various subjects and projects, offering a comprehensive overview of my academic progress and coding journey.
 
 ## 📂 Repository Structure
