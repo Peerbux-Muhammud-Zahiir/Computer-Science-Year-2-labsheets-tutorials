@@ -3,6 +3,10 @@
 #include <unistd.h>
 
 int main(){
-    printf("Welcome to Zahiir C programs repository, PID = %d\n",getpid());
+    fork();
+    fork();
+    fork();
+    fork();
+    printf("Welcome to Zahiir C programs repository! \nPID = %d\n\n",getpid());
     return 0;
 }
