@@ -1,0 +1,39 @@
+Functional Requirements specify what the system should do. These are the core functionalities that the system must provide to users.
+Examples for a Taxi Booking System:
+User Registration and Login: The system must allow users to register and log in using their credentials.
+
+1.Location Selection: 
+System should allow users to choose their pick-up locations and their desired destination.
+
+2.Taxi Availability: 
+The system should display available taxis in the user’s proximity.
+
+Booking Confirmation: 
+Users should receive confirmation of their booking with driver details.
+
+Fare Calculation: 
+The system should automatically calculate the fare based on distance and type of vehicle.
+
+Payment Processing: 
+The system must allow users to make payments through multiple methods (e.g., credit card, Juice, cash).
+
+Real-time Tracking: 
+Users should be able to track the taxi in real-time on a map.
+
+Driver Ratings and Reviews: 
+Users must be able to rate and review drivers after the ride.
+
+Ride History: 
+The system should maintain a history of all rides taken by the user.
+
+Support System: 
+There should be a feature for users to contact customer support.
+
+Recommendation system:
+The system allows other users to recommend taxi drivers based on their experience(if the experience is bad, then users can intervene to discourage the customer from travelling with that particular taxi driver)
+
+tipping system:
+System should allow satisfied user to tip their drivers 
+
+Fee collection system:
+System should tax drivers who use the app at a minimum rate.
